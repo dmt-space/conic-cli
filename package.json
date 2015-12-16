@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "npm test",
-    "push": "git add -A && git commit -m 'quick push' && git push --push-tags "
+    "push": "git add -A && git commit -m 'quick push' && git push --follow-tags"
   },
   "repository": {
     "type": "git",
