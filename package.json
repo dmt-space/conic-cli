@@ -1,0 +1,24 @@
+{
+  "name": "conic-cli",
+  "version": "0.1.0",
+  "description": "conic cli tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "push": "git add -A && git commit -m 'quick push' && git push --push-tags "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fex-team/conic-cli.git"
+  },
+  "keywords": [
+    "conic",
+    "cli"
+  ],
+  "author": "andycall",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fex-team/conic-cli/issues"
+  },
+  "homepage": "https://github.com/fex-team/conic-cli#readme"
+}
